@@ -1,0 +1,12 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: rgba(78, 78, 78, 0.1);
+}
+
+h1, h5 {
+  font-family: 'Roboto Slab', serif;
+}
+
+h1 {
+  text-shadow: 1px 1.5px 3px grey;
+}
